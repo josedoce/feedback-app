@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* para evitar escrever muito, use esa funcionalidade do css */
+.meu-botao {
+  /* <button className="bg-[red] px-4 h-10 rounded hover:bg-zinc-800 text-slate-300 transition-colors">Se apresentar</button>    */
+  @apply bg-indigo-800 px-4 h-10 rounded text-cyan-200;
+}
