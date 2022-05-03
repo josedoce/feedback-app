@@ -20,3 +20,9 @@
 [headless ui](https://headlessui.dev/) - para a acessibilidade de usuário.
 
 [phasphor icons](https://phosphoricons.com/) - para usar icones bacaninhas diretamente.
+
+[tailwind forms](https://github.com/tailwindlabs/tailwindcss-forms) - para customizar os formularios.
+
+[tailwind scrollbar](https://github.com/adoxography/tailwind-scrollbar) - para customizar os scrollbars.
+
+[html2canvas](https://html2canvas.hertzen.com/) - para tirar screenshots da tela do navegador.
